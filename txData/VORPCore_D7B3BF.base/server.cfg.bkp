@@ -11,7 +11,7 @@
 ## You CAN edit the following:
 endpoint_add_tcp "0.0.0.0:30120"
 endpoint_add_udp "0.0.0.0:30120"
-sv_licenseKey "thy9jj06quo7ycfocsd1gggionw36j3u"
+sv_licenseKey "thy9jj06quo7ycfocsd1gggionw36j3u"#
 sv_maxclients 48
 sv_enforceGameBuild 1491 #September 2022 update
 set gamename rdr3

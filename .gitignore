@@ -329,3 +329,5 @@ artifacts/vfs-impl-server.dll
 artifacts/voip-server-mumble.dll
 txData/admins.json
 txData/default/config.json
+txData/VORPCore_D7B3BF.base/server.cfg.bkp
+txData/VORPCore_D7B3BF.base/server.cfg
