@@ -1,0 +1,57 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 22/02/2024 17:48:43
+================================================================
+[17:49:11][byttencourt] created admins file
+[17:51:26][byttencourt] Changing global settings via setup stepper and started Deployer.
+[17:52:59][byttencourt] Setting recipe.
+[17:53:29][byttencourt] Running recipe.
+[17:55:33][byttencourt] Completed and committed server deploy.
+[17:57:20][byttencourt] Changing global settings.
+[17:58:10][byttencourt] Changing monitor settings.
+[17:59:35][byttencourt] Changing Player Manager settings.
+[17:59:43][byttencourt] executed "RESTART SERVER"
+[18:09:35][byttencourt] executed "RESTART SERVER"
+[18:10:25][byttencourt] Changing Player Manager settings.
+[18:11:22][byttencourt] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 22/02/2024 18:12:07
+================================================================
+[18:14:22][byttencourt] logged in from 127.0.0.1 via password
+[18:14:30][byttencourt] executed "RESTART SERVER"
+[18:20:11][byttencourt] executed "RESTART SERVER"
+[18:26:33][byttencourt] executed "RESTART SERVER"
+[18:28:29][byttencourt] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 22/02/2024 18:30:15
+================================================================
+[18:31:27][byttencourt] logged in from 127.0.0.1 via password
+[18:31:31][byttencourt] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 22/02/2024 18:32:36
+================================================================
+[18:33:12][byttencourt] logged in from 127.0.0.1 via password
+[18:33:15][byttencourt] executed "RESTART SERVER"
+[18:36:09][byttencourt] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin v7.0.0 atop fxserver 7511 Starting - 22/02/2024 19:49:45
+================================================================
+[19:51:49][byttencourt] logged in from 127.0.0.1 via password
+[20:22:39][byttencourt] Changing Player Manager settings.
+[20:23:28][byttencourt] executed "RESTART SERVER"
+[20:27:45][byttencourt] Changing own identifiers.
+[20:51:24][byttencourt] executed "ensure "vorp_metabolism""
+[20:51:28][byttencourt] executed "refresh"
+[21:00:51][byttencourt] executed "ensure "vorp_stables""
+[21:07:07][byttencourt] executed "ensure "vorp_stables""
+[21:10:10][byttencourt] executed "ensure "vorp_lootnpcs""
+[21:15:07][byttencourt] executed "ensure "vorp_imapviewtool""
+[21:15:12][byttencourt] executed "ensure "vorp_radius""
+[21:15:21][byttencourt] executed "ensure "vorp_wildhorse""
+[21:17:50][byttencourt] executed "ensure "vorp_housing""
+[21:18:18][byttencourt] executed "ensure "moonshine_interiors""
+[21:25:46][byttencourt] executed "ensure "vorp_inventory""
